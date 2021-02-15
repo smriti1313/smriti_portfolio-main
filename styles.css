@@ -17,7 +17,7 @@ body {
   font-size: 1.6rem;
   font-weight: 400;
   background-color: #fff;
-  color: #000;
+  color: rgb(0, 0, 0);
   position: relative;
   z-index: 1;
 }
@@ -302,6 +302,12 @@ li {
   bottom: 5%;
   left: 10%;
   color: #fff;
+  
+}
+
+.icons:link{
+  color: #fff;
+  background-color:transparent;
 }
 
 .icons span:not(:last-child) {
@@ -514,24 +520,28 @@ a.btn:active {
   height: 0.4rem;
 }
 
-.skills-box .html {
-  width: 95%;
+.skills-box .front {
+  width:85%;
 }
 
-.skills-box .css {
-  width: 85%;
+.skills-box .back {
+  width: 82%;
 }
 
-.skills-box .javascript {
+.skills-box .program {
+  width: 89%;
+}
+
+.skills-box .daa {
+  width: 86%;
+}
+
+.skills-box .dbms {
+  width: 86%;
+}
+
+.skills-box .vc {
   width: 90%;
-}
-
-.skills-box .nodejs {
-  width: 80%;
-}
-
-.skills-box .mongodb {
-  width: 95%;
 }
 
 .skills-box span {
