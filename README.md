@@ -1,6 +1,3 @@
-# Portfolio:
-
-For live view: click [here](https://smriti1313.github.io/smriti_portfolio-main/).
 
 ### Note:
 ```
